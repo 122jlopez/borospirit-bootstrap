@@ -1,0 +1,32 @@
+body{
+  background-color:#000080;
+}
+.logo{
+  height:130px;
+  margin: 30px;
+}
+h1{
+  margin: 70px;
+  margin-left: -310px;
+  color: white;
+  font-family: 'Piedra', cursive;
+  font-size: 60px;
+}
+nav{
+  margin: -20px;
+}
+.right{
+  margin-right:30px;
+}
+.home{
+  margin-right: 30px;
+  margin-left: 20px;
+}
+.candy{
+  height:57px;
+}
+.caro{
+  width: 1200px;
+  height:600px;
+  margin-left:290px;
+}
